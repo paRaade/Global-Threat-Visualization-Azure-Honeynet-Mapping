@@ -9,3 +9,6 @@ nsg-maliicous
 
 windows-rdp
 ![2024-01-06 01_22_35-windows-rdp-auth-fail - Microsoft Azure — Mozilla Firefox](https://github.com/paRaade/Global-Threat-Visualization-Azure-Honeynet-Mapping/assets/126734769/1c5fec52-3a32-48ad-873e-cf197a1e56c9)
+
+Sentinel Incidents
+![2024-01-06 11_16_37-BEFORE AND AFTER xlsx - Excel](https://github.com/paRaade/Global-Threat-Visualization-Azure-Honeynet-Mapping/assets/126734769/8e59c704-4404-44e2-88d1-c36d99953b96)
