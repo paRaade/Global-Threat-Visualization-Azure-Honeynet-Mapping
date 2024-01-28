@@ -12,3 +12,19 @@ windows-rdp
 
 Sentinel Incidents
 ![2024-01-06 11_16_37-BEFORE AND AFTER xlsx - Excel](https://github.com/paRaade/Global-Threat-Visualization-Azure-Honeynet-Mapping/assets/126734769/8e59c704-4404-44e2-88d1-c36d99953b96)
+
+
+![Pasted image 20240106112059](https://github.com/paRaade/Global-Threat-Visualization-Azure-Honeynet-Mapping/assets/126734769/69369069-03be-455d-b3a7-c9246dc47849)
+
+![Pasted image 20240106112720](https://github.com/paRaade/Global-Threat-Visualization-Azure-Honeynet-Mapping/assets/126734769/71dff6b4-06b4-4821-ad64-a93c1a3e7d21)
+
+![Pasted image 20240106112248](https://github.com/paRaade/Global-Threat-Visualization-Azure-Honeynet-Mapping/assets/126734769/8761ff89-4fec-4c90-93b6-4ebafbe0d85f)
+
+![Pasted image 20240106112856](https://github.com/paRaade/Global-Threat-Visualization-Azure-Honeynet-Mapping/assets/126734769/8e5c5a3c-608a-4383-a95f-440faa07109a)
+
+![Pasted image 20240106113424](https://github.com/paRaade/Global-Threat-Visualization-Azure-Honeynet-Mapping/assets/126734769/f6b1cf62-77d3-4f8f-8119-c24a3929e877)
+
+
+![Pasted image 20240106113638](https://github.com/paRaade/Global-Threat-Visualization-Azure-Honeynet-Mapping/assets/126734769/a0e38e59-8175-4dc1-b684-86b55e1dcacb)
+
+![Pasted image 20240106114503](https://github.com/paRaade/Global-Threat-Visualization-Azure-Honeynet-Mapping/assets/126734769/7a0d09e3-b9fe-400b-b339-57eb0fc7674a)
