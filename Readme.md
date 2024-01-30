@@ -34,3 +34,9 @@ Sentinel Incidents
 ![Pasted image 20240106140510](https://github.com/paRaade/Global-Threat-Visualization-Azure-Honeynet-Mapping/assets/126734769/b6d1517c-b64c-41eb-bb3c-b6a4ef53c279)
 
 ![Pasted image 20240106142844](https://github.com/paRaade/Global-Threat-Visualization-Azure-Honeynet-Mapping/assets/126734769/bb3ce11e-a5a5-4252-99be-7c4d795fe8ed)
+
+
+![Before Securing Environment](https://github.com/paRaade/Global-Threat-Visualization-Azure-Honeynet-Mapping/assets/126734769/82b835f4-430d-4bd3-bb33-b4df90c28ce9)
+![After Securing Environment](https://github.com/paRaade/Global-Threat-Visualization-Azure-Honeynet-Mapping/assets/126734769/d9c6e525-8f20-476b-a06e-8e360b9bd2c6)
+![Security Incident Reduction Summary](https://github.com/paRaade/Global-Threat-Visualization-Azure-Honeynet-Mapping/assets/126734769/159ea89a-f066-47d2-9343-ec13330cbf79)
+
