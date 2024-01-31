@@ -41,18 +41,23 @@ The following is data collected after hardening the environment over the next 24
 | SecurityIncident (Sentinel Incidents) |0|
 | NSG Inbound Malicious Flows Allowed |0|
 
-![Pasted image 20240106142844](https://github.com/paRaade/Global-Threat-Visualization-Azure-Honeynet-Mapping/assets/126734769/2bcb63e5-71b2-49f1-90ea-ffc15b58b2df)
-![Pasted image 20240106140510](https://github.com/paRaade/Global-Threat-Visualization-Azure-Honeynet-Mapping/assets/126734769/9e4ecd20-2297-4ce3-adda-dc98f5d78ced)
-![Pasted image 20240106134713](https://github.com/paRaade/Global-Threat-Visualization-Azure-Honeynet-Mapping/assets/126734769/cf456657-f323-4759-8ce9-ab1316ab787f)
-![Pasted image 20240106115039](https://github.com/paRaade/Global-Threat-Visualization-Azure-Honeynet-Mapping/assets/126734769/78b82980-2859-43c5-8ea9-a943b73abaf0)
-![Pasted image 20240106114518](https://github.com/paRaade/Global-Threat-Visualization-Azure-Honeynet-Mapping/assets/126734769/2a1d29c7-3ac7-4264-bd38-4a182e27c7a7)
-![Pasted image 20240106113638](https://github.com/paRaade/Global-Threat-Visualization-Azure-Honeynet-Mapping/assets/126734769/6700031b-b61c-4052-8e9e-6013bb03705e)
-![Pasted image 20240106113424](https://github.com/paRaade/Global-Threat-Visualization-Azure-Honeynet-Mapping/assets/126734769/51c83f84-bb22-4725-94b4-9b3d24e67d1b)
-![Pasted image 20240106112856](https://github.com/paRaade/Global-Threat-Visualization-Azure-Honeynet-Mapping/assets/126734769/e942c026-e449-488b-ad83-6aa9cce647cc)
-![Pasted image 20240106112720](https://github.com/paRaade/Global-Threat-Visualization-Azure-Honeynet-Mapping/assets/126734769/203c854e-3208-4892-8e83-382a862a8387)
-![Pasted image 20240106112248](https://github.com/paRaade/Global-Threat-Visualization-Azure-Honeynet-Mapping/assets/126734769/e176097a-aa63-4e45-9671-c03c7968cc22)
-![Pasted image 20240106112059](https://github.com/paRaade/Global-Threat-Visualization-Azure-Honeynet-Mapping/assets/126734769/1b5ff96a-9f1c-4730-ac64-24a2f11f3827)
-![Pasted image 20240106111725](https://github.com/paRaade/Global-Threat-Visualization-Azure-Honeynet-Mapping/assets/126734769/3c8ffff0-9e05-4dfd-b92d-1f3386342149)
+
+![Pasted image 20240106140510](https://github.com/paRaade/Global-Threat-Visualization-Azure-Honeynet-Mapping/assets/126734769/cc93735f-7dc1-40ad-a83f-9ec8d8448025)
+![Pasted image 20240106134713](https://github.com/paRaade/Global-Threat-Visualization-Azure-Honeynet-Mapping/assets/126734769/84c4890f-88d9-49b1-87ca-394b0197760f)
+![Pasted image 20240106115039](https://github.com/paRaade/Global-Threat-Visualization-Azure-Honeynet-Mapping/assets/126734769/649299e5-9ef1-4747-a13e-aa8e2eb3cb70)
+![Pasted image 20240106114518](https://github.com/paRaade/Global-Threat-Visualization-Azure-Honeynet-Mapping/assets/126734769/443f15fb-06a0-4144-97b8-050d536df0cf)
+![Pasted image 20240106113638](https://github.com/paRaade/Global-Threat-Visualization-Azure-Honeynet-Mapping/assets/126734769/91c2a066-c7de-498f-a6a7-7a5484b97ee0)
+![Pasted image 20240106113424](https://github.com/paRaade/Global-Threat-Visualization-Azure-Honeynet-Mapping/assets/126734769/4deb8ca2-73fe-4557-8772-4292fafe8c43)
+![Pasted image 20240106112856](https://github.com/paRaade/Global-Threat-Visualization-Azure-Honeynet-Mapping/assets/126734769/cd979837-47e9-421a-9849-d4992a6cf501)
+![Pasted image 20240106112720](https://github.com/paRaade/Global-Threat-Visualization-Azure-Honeynet-Mapping/assets/126734769/55b80135-746e-42bc-9f48-7a5f57d1573c)
+![Pasted image 20240106112248](https://github.com/paRaade/Global-Threat-Visualization-Azure-Honeynet-Mapping/assets/126734769/63415650-b3ee-4c0b-8fe3-858dbb2d01bd)
+![Pasted image 20240106112059](https://github.com/paRaade/Global-Threat-Visualization-Azure-Honeynet-Mapping/assets/126734769/d8bb981e-bb3d-4981-9fbe-5712646eac3b)
+![Pasted image 20240106111725](https://github.com/paRaade/Global-Threat-Visualization-Azure-Honeynet-Mapping/assets/126734769/4e555aeb-a6f8-4748-a618-ddeb9a98354a)
+![Pasted image 20240106142844](https://github.com/paRaade/Global-Threat-Visualization-Azure-Honeynet-Mapping/assets/126734769/d52465f5-3e55-4279-896a-c3b4e62a9899)
+
+
+
+
 
 
 Sentinel Incidents
