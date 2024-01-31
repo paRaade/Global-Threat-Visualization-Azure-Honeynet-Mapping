@@ -27,6 +27,17 @@ The following is data collected in the insecure environment over the course of 2
 | NSG Inbound Malicious Flows Allowed |2392|
 
 
+## **After Securing Environment**
+
+The following is data collected after hardening the environment over the next 24 hours:
+2024-01-08T18:37:19.9634111Z to 2024-01-09T18:37:19.9634111Z
+|Metrics| Count |
+|--|--|
+| Security Events (Windows VMs) |11548|
+|Syslog (Linux VMs) |0|
+| SecurityAlert (Microsoft Defender for Cloud) |0|
+| SecurityIncident (Sentinel Incidents) |0|
+| NSG Inbound Malicious Flows Allowed |0|
 
 
 
