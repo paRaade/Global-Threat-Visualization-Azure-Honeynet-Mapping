@@ -42,18 +42,18 @@ The following is data collected after hardening the environment over the next 24
 | NSG Inbound Malicious Flows Allowed |0|
 
 
-![Pasted image 20240106140510](https://github.com/paRaade/Global-Threat-Visualization-Azure-Honeynet-Mapping/assets/126734769/cc93735f-7dc1-40ad-a83f-9ec8d8448025)
-![Pasted image 20240106134713](https://github.com/paRaade/Global-Threat-Visualization-Azure-Honeynet-Mapping/assets/126734769/84c4890f-88d9-49b1-87ca-394b0197760f)
-![Pasted image 20240106115039](https://github.com/paRaade/Global-Threat-Visualization-Azure-Honeynet-Mapping/assets/126734769/649299e5-9ef1-4747-a13e-aa8e2eb3cb70)
-![Pasted image 20240106114518](https://github.com/paRaade/Global-Threat-Visualization-Azure-Honeynet-Mapping/assets/126734769/443f15fb-06a0-4144-97b8-050d536df0cf)
-![Pasted image 20240106113638](https://github.com/paRaade/Global-Threat-Visualization-Azure-Honeynet-Mapping/assets/126734769/91c2a066-c7de-498f-a6a7-7a5484b97ee0)
-![Pasted image 20240106113424](https://github.com/paRaade/Global-Threat-Visualization-Azure-Honeynet-Mapping/assets/126734769/4deb8ca2-73fe-4557-8772-4292fafe8c43)
-![Pasted image 20240106112856](https://github.com/paRaade/Global-Threat-Visualization-Azure-Honeynet-Mapping/assets/126734769/cd979837-47e9-421a-9849-d4992a6cf501)
-![Pasted image 20240106112720](https://github.com/paRaade/Global-Threat-Visualization-Azure-Honeynet-Mapping/assets/126734769/55b80135-746e-42bc-9f48-7a5f57d1573c)
-![Pasted image 20240106112248](https://github.com/paRaade/Global-Threat-Visualization-Azure-Honeynet-Mapping/assets/126734769/63415650-b3ee-4c0b-8fe3-858dbb2d01bd)
-![Pasted image 20240106112059](https://github.com/paRaade/Global-Threat-Visualization-Azure-Honeynet-Mapping/assets/126734769/d8bb981e-bb3d-4981-9fbe-5712646eac3b)
-![Pasted image 20240106111725](https://github.com/paRaade/Global-Threat-Visualization-Azure-Honeynet-Mapping/assets/126734769/4e555aeb-a6f8-4748-a618-ddeb9a98354a)
-![Pasted image 20240106142844](https://github.com/paRaade/Global-Threat-Visualization-Azure-Honeynet-Mapping/assets/126734769/d52465f5-3e55-4279-896a-c3b4e62a9899)
+![Pasted image 20240106111725](https://github.com/paRaade/Global-Threat-Visualization-Azure-Honeynet-Mapping/assets/126734769/8619912e-ef68-4df0-8548-e49fcc0d98e4)
+![Pasted image 20240106112059](https://github.com/paRaade/Global-Threat-Visualization-Azure-Honeynet-Mapping/assets/126734769/c2abacc8-0680-4de4-9dbe-f4d9a0938d97)
+![Pasted image 20240106112248](https://github.com/paRaade/Global-Threat-Visualization-Azure-Honeynet-Mapping/assets/126734769/aa04c82c-3cb6-4822-8b33-2833eca965bb)
+![Pasted image 20240106112720](https://github.com/paRaade/Global-Threat-Visualization-Azure-Honeynet-Mapping/assets/126734769/9a9a119b-2d5e-4fee-911f-c5378a1cc553)
+![Pasted image 20240106112856](https://github.com/paRaade/Global-Threat-Visualization-Azure-Honeynet-Mapping/assets/126734769/1a8e8a99-ba63-48dd-92b9-3e06d0a3401d)
+![Pasted image 20240106113424](https://github.com/paRaade/Global-Threat-Visualization-Azure-Honeynet-Mapping/assets/126734769/36b87175-f50c-487e-beac-3903c3c6e328)
+![Pasted image 20240106113638](https://github.com/paRaade/Global-Threat-Visualization-Azure-Honeynet-Mapping/assets/126734769/64afa985-fc75-4cba-bac4-b87768ad7381)
+![Pasted image 20240106114518](https://github.com/paRaade/Global-Threat-Visualization-Azure-Honeynet-Mapping/assets/126734769/b4426a6b-cf49-4f23-af76-6b14354dc6bb)
+![Pasted image 20240106115039](https://github.com/paRaade/Global-Threat-Visualization-Azure-Honeynet-Mapping/assets/126734769/b0348115-bb2c-4890-b52a-d391790f9505)
+![Pasted image 20240106134713](https://github.com/paRaade/Global-Threat-Visualization-Azure-Honeynet-Mapping/assets/126734769/6e01c543-f065-48f8-bdbc-b8e3dc65ddc6)
+![Pasted image 20240106140510](https://github.com/paRaade/Global-Threat-Visualization-Azure-Honeynet-Mapping/assets/126734769/90aff147-65d4-4294-b823-16b593f09ab4)
+![Pasted image 20240106142844](https://github.com/paRaade/Global-Threat-Visualization-Azure-Honeynet-Mapping/assets/126734769/257e1b6e-ec6d-4fda-8002-a96626b50024)
 
 
 
