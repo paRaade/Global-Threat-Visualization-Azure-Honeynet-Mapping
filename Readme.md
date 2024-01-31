@@ -41,6 +41,18 @@ The following is data collected after hardening the environment over the next 24
 | SecurityIncident (Sentinel Incidents) |0|
 | NSG Inbound Malicious Flows Allowed |0|
 
+![Pasted image 20240106142844](https://github.com/paRaade/Global-Threat-Visualization-Azure-Honeynet-Mapping/assets/126734769/2bcb63e5-71b2-49f1-90ea-ffc15b58b2df)
+![Pasted image 20240106140510](https://github.com/paRaade/Global-Threat-Visualization-Azure-Honeynet-Mapping/assets/126734769/9e4ecd20-2297-4ce3-adda-dc98f5d78ced)
+![Pasted image 20240106134713](https://github.com/paRaade/Global-Threat-Visualization-Azure-Honeynet-Mapping/assets/126734769/cf456657-f323-4759-8ce9-ab1316ab787f)
+![Pasted image 20240106115039](https://github.com/paRaade/Global-Threat-Visualization-Azure-Honeynet-Mapping/assets/126734769/78b82980-2859-43c5-8ea9-a943b73abaf0)
+![Pasted image 20240106114518](https://github.com/paRaade/Global-Threat-Visualization-Azure-Honeynet-Mapping/assets/126734769/2a1d29c7-3ac7-4264-bd38-4a182e27c7a7)
+![Pasted image 20240106113638](https://github.com/paRaade/Global-Threat-Visualization-Azure-Honeynet-Mapping/assets/126734769/6700031b-b61c-4052-8e9e-6013bb03705e)
+![Pasted image 20240106113424](https://github.com/paRaade/Global-Threat-Visualization-Azure-Honeynet-Mapping/assets/126734769/51c83f84-bb22-4725-94b4-9b3d24e67d1b)
+![Pasted image 20240106112856](https://github.com/paRaade/Global-Threat-Visualization-Azure-Honeynet-Mapping/assets/126734769/e942c026-e449-488b-ad83-6aa9cce647cc)
+![Pasted image 20240106112720](https://github.com/paRaade/Global-Threat-Visualization-Azure-Honeynet-Mapping/assets/126734769/203c854e-3208-4892-8e83-382a862a8387)
+![Pasted image 20240106112248](https://github.com/paRaade/Global-Threat-Visualization-Azure-Honeynet-Mapping/assets/126734769/e176097a-aa63-4e45-9671-c03c7968cc22)
+![Pasted image 20240106112059](https://github.com/paRaade/Global-Threat-Visualization-Azure-Honeynet-Mapping/assets/126734769/1b5ff96a-9f1c-4730-ac64-24a2f11f3827)
+![Pasted image 20240106111725](https://github.com/paRaade/Global-Threat-Visualization-Azure-Honeynet-Mapping/assets/126734769/3c8ffff0-9e05-4dfd-b92d-1f3386342149)
 
 
 Sentinel Incidents
