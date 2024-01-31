@@ -1,5 +1,6 @@
 ## Attack Map Origins
 
+![Environment](https://github.com/paRaade/Global-Threat-Visualization-Azure-Honeynet-Mapping/assets/126734769/013024ff-541e-4486-90ac-edaa2ed5f0c7)
 
 
 ![2024-01-06 01_19_24-linux-ssh-auth-fail - Microsoft Azure — Mozilla Firefox](https://github.com/paRaade/Global-Threat-Visualization-Azure-Honeynet-Mapping/assets/126734769/768802e4-2803-4d42-b9cc-616cd9fe9040)
