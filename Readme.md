@@ -42,18 +42,7 @@ The following is data collected after hardening the environment over the next 24
 | NSG Inbound Malicious Flows Allowed |0|
 
 
-![Pasted image 20240106111725](https://github.com/paRaade/Global-Threat-Visualization-Azure-Honeynet-Mapping/assets/126734769/8619912e-ef68-4df0-8548-e49fcc0d98e4)
-![Pasted image 20240106112059](https://github.com/paRaade/Global-Threat-Visualization-Azure-Honeynet-Mapping/assets/126734769/c2abacc8-0680-4de4-9dbe-f4d9a0938d97)
-![Pasted image 20240106112248](https://github.com/paRaade/Global-Threat-Visualization-Azure-Honeynet-Mapping/assets/126734769/aa04c82c-3cb6-4822-8b33-2833eca965bb)
-![Pasted image 20240106112720](https://github.com/paRaade/Global-Threat-Visualization-Azure-Honeynet-Mapping/assets/126734769/9a9a119b-2d5e-4fee-911f-c5378a1cc553)
-![Pasted image 20240106112856](https://github.com/paRaade/Global-Threat-Visualization-Azure-Honeynet-Mapping/assets/126734769/1a8e8a99-ba63-48dd-92b9-3e06d0a3401d)
-![Pasted image 20240106113424](https://github.com/paRaade/Global-Threat-Visualization-Azure-Honeynet-Mapping/assets/126734769/36b87175-f50c-487e-beac-3903c3c6e328)
-![Pasted image 20240106113638](https://github.com/paRaade/Global-Threat-Visualization-Azure-Honeynet-Mapping/assets/126734769/64afa985-fc75-4cba-bac4-b87768ad7381)
-![Pasted image 20240106114518](https://github.com/paRaade/Global-Threat-Visualization-Azure-Honeynet-Mapping/assets/126734769/b4426a6b-cf49-4f23-af76-6b14354dc6bb)
-![Pasted image 20240106115039](https://github.com/paRaade/Global-Threat-Visualization-Azure-Honeynet-Mapping/assets/126734769/b0348115-bb2c-4890-b52a-d391790f9505)
-![Pasted image 20240106134713](https://github.com/paRaade/Global-Threat-Visualization-Azure-Honeynet-Mapping/assets/126734769/6e01c543-f065-48f8-bdbc-b8e3dc65ddc6)
-![Pasted image 20240106140510](https://github.com/paRaade/Global-Threat-Visualization-Azure-Honeynet-Mapping/assets/126734769/90aff147-65d4-4294-b823-16b593f09ab4)
-![Pasted image 20240106142844](https://github.com/paRaade/Global-Threat-Visualization-Azure-Honeynet-Mapping/assets/126734769/257e1b6e-ec6d-4fda-8002-a96626b50024)
+
 
 
 
