@@ -17,6 +17,7 @@
 ## **Before Securing Environment**
 
 The following is data collected in the insecure environment over the course of 24 hours:
+
 2024-01-05T05:52:03.5049008Z to 2024-01-06T05:52:03.5049008Z
 |Metrics| Count |
 |--|--|
@@ -30,6 +31,7 @@ The following is data collected in the insecure environment over the course of 2
 ## **After Securing Environment**
 
 The following is data collected after hardening the environment over the next 24 hours:
+
 2024-01-08T18:37:19.9634111Z to 2024-01-09T18:37:19.9634111Z
 |Metrics| Count |
 |--|--|
