@@ -1,3 +1,9 @@
+## Project Description
+In this project, I intentionally set up both a Windows and Linux virtual machine with deliberate misconfigurations, making them accessible on the internet. They were left in this state for 24 hours to create a honeynet—an environment meant to attract and analyze potential malicious activities.
+
+This intentional misconfiguration invited attackers from various locations globally to attempt unauthorized access, allowing me to observe and analyze their methods. This provided insights into the geographical origin of each attack, helping me understand potential threats.
+
+Afterward, I strengthened the security of the environment and re-exposed the virtual machines to the internet. This phase allowed me to compare data and assess the impact of the security measures implemented.
 ## Attack Map Origins
 
 ![2024-01-06 01_19_24-linux-ssh-auth-fail - Microsoft Azure — Mozilla Firefox](https://github.com/paRaade/Global-Threat-Visualization-Azure-Honeynet-Mapping/assets/126734769/768802e4-2803-4d42-b9cc-616cd9fe9040)
